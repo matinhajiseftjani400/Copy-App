@@ -38,7 +38,7 @@ pip install PyQt5
 
 ```bash
 python Copy App.py
-
+```
 
 
 
