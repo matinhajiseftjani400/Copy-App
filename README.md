@@ -28,7 +28,7 @@
 
 ```bash
 pip install PyQt5
-
+```
 
 ---
 
