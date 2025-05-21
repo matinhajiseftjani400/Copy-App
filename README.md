@@ -37,7 +37,7 @@ pip install PyQt5
 برای اجرای برنامه کافی است دستور زیر را در ترمینال یا CMD وارد کنید:
 
 ```bash
-python Copy App.py
+python Copy_App.py
 ```
 
 
